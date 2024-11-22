@@ -36,7 +36,7 @@ By mastering these concepts, we tackled some exciting problems that strengthened
 | F          | [Watermelon](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/Watermelon.cpp)                                   |
 | G          | [Theatre Square](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/Theatre%20Square.cpp)                         |
 | H          | [Palindromic Number](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/Palindromic%20Number.cpp)                 |
-| I          | [T or T](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/TorT.cpp)                                             |
+| I          | [T or T](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/T%20or%20T.cpp)                                       |
 | J          | [Day of Takahashi](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/Day%20of%20Takahashi.cpp)                   |
 | K          | [9x9](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/9x9.cpp)                                                 |
 | L          | [Conditional Statements](https://github.com/Mo3bassia/Sheet-2-ICPC-Level-0-2025/blob/main/Conditional%20Statements.cpp)         |
